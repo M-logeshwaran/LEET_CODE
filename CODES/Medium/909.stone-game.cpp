@@ -1,6 +1,6 @@
 // LeetCode 909. Stone Game
 // Difficulty: Medium
-// Tags: Array, Math, Dynamic Programming, Game Theory
+// Tags: Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game
 // Status: Accepted
 // Language: cpp
 // Runtime: N/A

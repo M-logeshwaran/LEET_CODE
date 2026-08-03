@@ -1,6 +1,6 @@
 // LeetCode 28. Find the Index of the First Occurrence in a String
 // Difficulty: Easy
-// Tags: Two Pointers, String, String Matching
+// Tags: Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm
 // Status: Accepted
 // Language: cpp
 // Runtime: N/A

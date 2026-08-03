@@ -1,6 +1,6 @@
 // LeetCode 486. Predict the Winner
 // Difficulty: Medium
-// Tags: Array, Math, Dynamic Programming, Recursion, Game Theory
+// Tags: Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game
 // Status: Accepted
 // Language: cpp
 // Runtime: 3
